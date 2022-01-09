@@ -6,16 +6,16 @@
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date: Converted the Date Created Conversion
- column from the original Kickstarter sheet into a new Years
- column which I used in addition to Parent Category and Outcomes
- to create a pivot table. A line graph pivot chart was also created to help visualize the outcomes.
+### Analysis of Outcomes Based on Launch Date: 
+Converted the Date Created Conversion column from the original Kickstarter sheet into a new Years column which I used in addition to Parent Category and Outcomes to create a pivot table. A line graph pivot chart was also created to help visualize the outcomes.
 ![This is an image](C:\Users\sokim\OneDrive\Desktop\AnalysisProjects\CrowdfundingAnalysis\Resources\Theaters_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based on Goals: A new sheet was created to compare the goals and percentages of successful, failed and canceled outcomes by using the function CountIfs. A line graph was created to help visualize the outcomes.
+### Analysis of Outcomes Based on Goals: 
+A new sheet was created to compare the goals and percentages of successful, failed and canceled outcomes by using the function CountIfs. A line graph was created to help visualize the outcomes.
 ![This is an image](C:\Users\sokim\OneDrive\Desktop\AnalysisProjects\CrowdfundingAnalysis\Resources\Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered: When creating the pivot chart, it was a challenge to adjust the time to months to get a clear understanding of the outcomes by launch date. However, by using the Excel Documentation under the Hint section, I was able to group
+### Challenges and Difficulties Encountered: 
+When creating the pivot chart, it was a challenge to adjust the time to months to get a clear understanding of the outcomes by launch date. However, by using the Excel Documentation under the Hint section, I was able to group
 the data and format it into months.
 
 
